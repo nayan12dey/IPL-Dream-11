@@ -22,7 +22,7 @@ const Navbar = ({ coin }) => {
                         <li><a>Schedules</a></li>
                     </ul>
                 </div>
-                <a className="btn btn-ghost text-xl"><img src={ipllogo} alt="ipl-logo" width="50px" /></a>
+                <a className="text-xl pl-3 cursor-pointer"><img src={ipllogo} alt="ipl-logo" width="60px" /></a>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1">

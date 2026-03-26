@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "playerName": "Virat Kohli",
         "playerCountry": "India",
         "playerType": "Batsman",
@@ -10,6 +11,7 @@
         "playerImage": "https://i.ibb.co/xK5Xb0CL/Virat-Kohli.jpg"
     },
     {
+        "id": 2,
         "playerName": "Joe Root",
         "playerCountry": "England",
         "playerType": "Batsman",
@@ -20,6 +22,7 @@
         "playerImage": "https://i.ibb.co/Xk7bNFYD/joe-root.avif"
     },
     {
+        "id": 3,
         "playerName": "Kane Williamson",
         "playerCountry": "New Zealand",
         "playerType": "Batsman",
@@ -30,6 +33,7 @@
         "playerImage": "https://i.ibb.co/TBhr2hkq/Kane-Williamson.avif"
     },
     {
+        "id": 4,
         "playerName": "Ben Stokes",
         "playerCountry": "England",
         "playerType": "All-rounder",
@@ -40,6 +44,7 @@
         "playerImage": "https://i.ibb.co/jkxMX1ck/ben-stokes.webp"
     },
     {
+        "id": 5,
         "playerName": "Mitchell Starc",
         "playerCountry": "Australia",
         "playerType": "Bowler",
@@ -50,6 +55,7 @@
         "playerImage": "https://i.ibb.co/m5m77DPS/mitchell-starc.jpg"
     },
     {
+        "id": 6,
         "playerName": "Rashid Khan",
         "playerCountry": "Afghanistan",
         "playerType": "Bowler",
